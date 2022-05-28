@@ -1,0 +1,8 @@
+2022-05-27T15:45:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 921
+
+2022-05-27T15:46:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 2169
+
+2022-05-27T17:02:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\google-listings-and-ads\vendor\google\protobuf\src\Google\Protobuf\Internal\CodedInputStream.php on line 120
+
+2022-05-27T17:02:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\astra-sites\inc\importers\wxr-importer\class-wxr-importer.php on line 17
+
